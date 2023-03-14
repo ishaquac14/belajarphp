@@ -6,7 +6,7 @@
 
 // membuat array
 $hobi = [
-    "Membaca",
+    "Menghitung",
     "Menulis",
     "Ngeblog"
 ];
